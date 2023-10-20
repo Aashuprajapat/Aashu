@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aashu/static/css/main.2ef2ae57.css",
+    "main.js": "/Aashu/static/js/main.14f686c8.js",
+    "static/js/787.88542854.chunk.js": "/Aashu/static/js/787.88542854.chunk.js",
+    "index.html": "/Aashu/index.html",
+    "main.2ef2ae57.css.map": "/Aashu/static/css/main.2ef2ae57.css.map",
+    "main.14f686c8.js.map": "/Aashu/static/js/main.14f686c8.js.map",
+    "787.88542854.chunk.js.map": "/Aashu/static/js/787.88542854.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ef2ae57.css",
+    "static/js/main.14f686c8.js"
+  ]
+}
